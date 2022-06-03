@@ -1,8 +1,6 @@
-module github.com/jelenac11/SharedProba
+module github.com/tcxtc00/dislinkt-auth
 
 go 1.18
-
-require github.com/auth0/go-jwt-middleware v1.0.1
 
 require (
 	github.com/gin-contrib/sse v0.1.0 // indirect
